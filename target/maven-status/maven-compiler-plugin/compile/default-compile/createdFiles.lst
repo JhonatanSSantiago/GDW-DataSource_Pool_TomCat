@@ -1,0 +1,6 @@
+com\jhsantiago\datasourcepool\dao\ErroDAOException.class
+com\jhsantiago\datasourcepool\dao\FabricaConexao.class
+com\jhsantiago\datasourcepool\model\Pessoa.class
+com\jhsantiago\datasourcepool\controller\Controller.class
+com\jhsantiago\datasourcepool\dao\PessoaDaoClasseBanco.class
+com\jhsantiago\datasourcepool\dao\PessoaDaoInterface.class
